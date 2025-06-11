@@ -1,4 +1,4 @@
-# 🧠 Multimodal AI Evaluation Dashboard
+# 🧠 Multimodal AI Evaluation Dashboard Streamlit
 
 This is a Streamlit app to visualize and evaluate training and fine-tuning metrics for multimodal AI systems (Image, Text, Audio, Video).
 Below is an example of the app deployed on a Gradio public link:
